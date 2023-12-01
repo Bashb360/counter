@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: aqua;
+}
+
+p {
+  color: blueviolet;
+  font-style: oblique;
+  font-size: xx-large;
+}
+
+#bash {
+  color: brown;
+}
+
+#Increment {
+  background-color: blueviolet;
+  margin-inline: 20px;
+  border-radius: 50px;
+  font-size: 30px;
+}
+#Decrement {
+  background-color: blueviolet;
+  border-radius: 50px;
+  font-size: 25px;
+}
+
+#Plus {
+  background-color: brown;
+  margin-inline: 20px;
+  border-radius: 50px;
+  font-size: 30px;
+}
+
+#Minus {
+  background-color: brown;
+  border-radius: 50px;
+  font-size: 30px;
+}
